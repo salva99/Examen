@@ -12,6 +12,7 @@ public class Principal {
 	}
 	public static void impar(int n)
 	{
+		int jeje;
 		int i;
 		int suma=0;
 		for(i=1;i<=n;i++) 
